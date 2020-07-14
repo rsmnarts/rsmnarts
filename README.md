@@ -1,7 +1,9 @@
-### Hi there 👋
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "rsmnarts"
 
 <!--
 **rsmnarts/rsmnarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
