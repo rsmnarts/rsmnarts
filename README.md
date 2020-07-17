@@ -1,7 +1,5 @@
 # -
 
-[![gvoze32's github stats](https://github-readme-stats.vercel.app/api?username=rsmnarts&title_color=333&text_color=777&show_icons=true&icon_color=333)](https://github.com/rsmnarts)
-
 <!--
 **github.com/rsmnarts/rsmnarts/github.com/rsmnarts/rsmnarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
