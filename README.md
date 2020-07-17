@@ -1,7 +1,9 @@
-![rsmnarts.com](https://source.unsplash.com/random/1600x900)
+# Corona Status
+
+<!-- ![github.com/rsmnarts/rsmnarts.com](https://source.unsplash.com/random/1600x900) -->
 
 <!--
-**rsmnarts/rsmnarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**github.com/rsmnarts/rsmnarts/github.com/rsmnarts/rsmnarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋
 
