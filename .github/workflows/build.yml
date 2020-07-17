@@ -24,7 +24,7 @@ jobs:
         run: go mod download
 
       - name: Build
-        run: go build -v . -o rsmnarts
+        run: go build -v . -o $GOPATH/go/bin/rsmnarts
 
       - name: Running
-        run: ./rsmnarts
+        run: ./$GOPATH/go/bin/rsmnarts
