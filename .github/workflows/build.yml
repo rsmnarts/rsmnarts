@@ -23,8 +23,11 @@ jobs:
       - name: Get dependencies
         run: go mod download
 
-      - name: Build
-        run: go build -v . -o $GOPATH/go/bin/rsmnarts
+      # - name: Build
+      #   run: go build -v . -o $GOPATH/go/bin/rsmnarts
+
+      # - name: Running
+      #   run: ./$GOPATH/go/bin/rsmnarts
 
       - name: Running
-        run: ./$GOPATH/go/bin/rsmnarts
+        run: go run .
