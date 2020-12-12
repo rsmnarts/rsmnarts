@@ -1,7 +1,3 @@
-# -
-
-![rsmsnarts](https://github.com/rsmnarts/rsmnarts/blob/master/stayathome.gif)
-
 <!--
 **github.com/rsmnarts/rsmnarts/github.com/rsmnarts/rsmnarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
